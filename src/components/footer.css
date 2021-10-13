@@ -1,0 +1,10 @@
+.footSection {
+    background-color: coral;
+    padding-top: .5rem;
+    border: 1px solid darkred;
+    border-right: none;
+    border-left: none;
+    color: white;
+    font-size: smaller;
+    text-transform: uppercase;
+}
